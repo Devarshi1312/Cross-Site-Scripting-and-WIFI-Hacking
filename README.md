@@ -9,20 +9,20 @@ Tools Used:
 
 ▪	Cross-Site Scripting
 
- ●	Kali Linux
+   ●	Kali Linux
  
- ●	Burp Suite
+   ●	Burp Suite
  
- ●	DVWA
+   ●	DVWA
  
- ●	Cookie Editor
+   ●	Cookie Editor
  
- ●	PwnXSS
+   ●	PwnXSS
  
 ▪	WIFI Hacking Using Network Adapter
 
- ●	Kali Linux
+   ●	Kali Linux
  
- ●	Network Adapter Leoxsys 150
+   ●	Network Adapter Leoxsys 150
  
- ●	Wireshark
+   ●	Wireshark
