@@ -6,6 +6,7 @@ WIFI Hacking Using Network Adapter:
 	The main agenda of this project is to bring a basic understanding of how the WIFI can be hacked using a network adapter. We will learn the technique to hack a public network, what tools are required and its prevention methods.
 
 Tools Used:
+
 ▪	Cross-Site Scripting
 
  ●	Kali Linux
