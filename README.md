@@ -15,8 +15,6 @@
  
    ●	DVWA
  
-   ●	Cookie Editor
- 
    ●	PwnXSS
  
 **▪	WIFI Hacking Using Network Adapter**
